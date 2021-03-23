@@ -34,7 +34,8 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\Project\VS\UE\FacialRig\Intermediate\Build\Win64\FacialRigEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\UAvatar.cpp.obj"
+"D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Module.UAvatar.cpp.obj"
+"D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Module.UAvatar.gen.cpp.obj"
 "D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Default.rc2.res"
 "D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
 "D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"

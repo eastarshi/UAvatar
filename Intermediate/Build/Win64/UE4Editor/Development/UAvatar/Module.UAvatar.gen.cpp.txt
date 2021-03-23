@@ -1,0 +1,7 @@
+D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Definitions.UAvatar.h
+D:/Project/VS/UE/FacialRig/Plugins/UAvatar/Intermediate/Build/Win64/UE4Editor/Inc/UAvatar/MyActor.gen.cpp
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Source\UAvatar/Public/MyActor.h
+d:\project\vs\ue\facialrig\plugins\uavatar\intermediate\build\win64\ue4editor\inc\uavatar\MyActor.generated.h
+D:/Project/VS/UE/FacialRig/Plugins/UAvatar/Intermediate/Build/Win64/UE4Editor/Inc/UAvatar/UAvatar.init.gen.cpp

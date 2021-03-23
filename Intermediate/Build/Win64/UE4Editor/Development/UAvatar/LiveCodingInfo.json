@@ -1,5 +1,13 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.UAvatar.cpp.obj": [
+			"MyActor.cpp.obj",
+			"UAvatar.cpp.obj"
+		],
+		"Module.UAvatar.gen.cpp.obj": [
+			"MyActor.gen.cpp.obj",
+			"UAvatar.init.gen.cpp.obj"
+		]
 	}
 }

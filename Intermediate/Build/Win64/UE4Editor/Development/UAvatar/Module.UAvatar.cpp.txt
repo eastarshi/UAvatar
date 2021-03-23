@@ -1,0 +1,6 @@
+D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Definitions.UAvatar.h
+D:/Project/VS/UE/FacialRig/Plugins/UAvatar/Source/UAvatar/Private/MyActor.cpp
+D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Source\UAvatar\Public\MyActor.h
+D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Inc\UAvatar\MyActor.generated.h
+D:/Project/VS/UE/FacialRig/Plugins/UAvatar/Source/UAvatar/Private/UAvatar.cpp
+D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Source\UAvatar\Public\UAvatar.h

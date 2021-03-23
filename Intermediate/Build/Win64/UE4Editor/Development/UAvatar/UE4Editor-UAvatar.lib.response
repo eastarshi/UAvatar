@@ -7,7 +7,8 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\Project\VS\UE\FacialRig\Intermediate\Build\Win64\FacialRigEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\UAvatar.cpp.obj"
+"D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Module.UAvatar.cpp.obj"
+"D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Module.UAvatar.gen.cpp.obj"
 "D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Default.rc2.res"
 /OUT:"D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\UE4Editor-UAvatar.lib"
 /INCLUDE:IMPLEMENT_MODULE_UAvatar
