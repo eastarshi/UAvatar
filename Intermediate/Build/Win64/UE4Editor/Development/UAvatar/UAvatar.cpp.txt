@@ -1,0 +1,2 @@
+D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Intermediate\Build\Win64\UE4Editor\Development\UAvatar\Definitions.UAvatar.h
+D:\Project\VS\UE\FacialRig\Plugins\UAvatar\Source\UAvatar\Public\UAvatar.h
